@@ -1,2 +1,2 @@
 # Intentivella_Standalone
-Intentivella 0.6.5
+Intentivella 0.6.6
